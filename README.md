@@ -39,16 +39,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black)
 
-## 📈 Моя статистика GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DashinNV&show_icons=true&theme=radical&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DashinNV&layout=compact&theme=radical&langs_count=6)
-
-</div>
-
 ## 🤝 Свяжитесь со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Dashinnv)
